@@ -1,0 +1,127 @@
+{
+    "Icons": [
+        {
+            "name":"bootlogo spiners",
+            "code": "&#xe627;",
+            "font":"GOI"
+        },{
+            "name":"cam",
+            "code":"&#xe8a1;",
+            "font":"GOI"
+
+        },{
+            "name":"cam info",
+            "code":"&#xe88e;",
+            "font":"GOI"
+
+        },{
+            "name":"channel list",
+            "code":"&#xe8ef;",
+            "font":"GOI"
+
+        },{
+            "name":"free server",
+            "code":"&#xe875;",
+            "font":"GOI"
+
+        },{
+            "name":"epg",
+            "code":"&#xe1b2;",
+            "font":"GOI"
+
+        },{
+            "name":"iptv",
+            "code":"&#xe639;",
+            "font":"GOI"
+
+        },{
+            "name":"keys",
+            "code":"&#xe0da;",
+            "font":"GOI"
+
+        },{
+            "name":"media",
+            "code":"&#xe039;",
+            "font":"GOI"
+
+        },{
+            "name":"multiboot",
+            "code":"&#xe859;",
+            "font":"GOI"
+
+        },{
+            "name":"music",
+            "code":"&#xe405;",
+            "font":"GOI"
+
+        },{
+            "name":"other",
+            "code":"&#xe8fd;",
+            "font":"GOI"
+
+        },{
+            "name":"panels",
+            "code":"&#xef3d;",
+            "font":"GOI"
+
+        },{
+            "name":"picons",
+            "code":"&#xe251;",
+            "font":"GOI"
+
+        },{
+            "name":"sport",
+            "code":"&#xea2f;",
+            "font":"GOI"
+
+        },{
+            "name":"stalkerportal",
+            "code":"&#xe998;",
+            "font":"GOI"
+
+        },{
+            "name":"tools",
+            "code":"&#xf10b;",
+            "font":"GOI"
+
+        },{
+            "name":"novaler wifi",
+            "code":"&#xe63e;",
+            "font":"GOI"
+
+        },{
+            "name":"quran",
+            "code":"&#xea19;",
+            "font":"GOI"
+
+        },{
+            "name":"backup",
+            "code":"&#xe2c0;",
+            "font":"GOI"
+
+        },{
+            "name":"skin all",
+            "code":"&#xe3ae;",
+            "font":"GOI"
+
+        },{
+            "name":"skin openatv",
+            "code":"&#xe3ae;",
+            "font":"GOI"
+
+        },{
+            "name":"skin openblackhole",
+            "code":"&#xe3ae;",
+            "font":"GOI"
+
+        },{
+            "name":"skin openpli",
+            "code":"&#xe3ae;",
+            "font":"GOI"
+        },{
+            "name":"novaler",
+            "code":"&#xe328;",
+            "font":"GOI"
+        }
+    ]
+}
